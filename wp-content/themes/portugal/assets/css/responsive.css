@@ -1,0 +1,213 @@
+@media (min-width: 576px) {}
+
+@media (min-width: 992px) {}
+
+@media screen and (max-width: 991.5px) {}
+
+@media only screen and (min-device-width: 280px) and (max-device-width: 640px) {
+
+  .card {
+    width: 100% !important;
+    margin: 30px 0px 50px 0px !important;
+    position: relative;
+  }
+
+  .card-body {
+    display: flex;
+    padding: 20px;
+  }
+
+  .weine-slider .card-body {
+    padding: 20px !important;
+  }
+
+  .card-img img {
+    transform: translateY(-90px);
+  }
+
+  .product-cart {
+    padding: 13px 20px 13px 20px;
+  }
+
+  .offer-slider .card {
+    margin: 70px 0px 0px 0px !important;
+    width: 100% !important;
+  }
+
+  /* .card-pagination .card {
+    width: 330px;
+    padding-bottom: 20px;
+    margin: 70px 0px 0px 0px;
+  } */
+
+
+  .card-pagination .card-body {
+    padding: 20px;
+  }
+
+  .woo-entry-image {
+    width: 100px !important;
+  }
+
+  .homepage-card .card {
+    height: 400px !important;
+  }
+
+  .homepage-card .card-body {
+    padding: 20px;
+  }
+
+  .card-body {
+    padding: 20px !important;
+  }
+
+  .product-sub-cat-header,
+  .term-description p {
+    padding-left: 20px;
+  }
+
+
+  .woocommerce ul.products {
+    margin: 0px 0px !important;
+  }
+
+  /* single cart page   */
+
+  .single-product-title-add-to-cart {
+    display: block !important;
+    padding-left: 20px !important;
+  }
+  .product-cart-btn-stock {
+    margin-top: 50Px !important;
+  }
+  .single-product-location-details,
+  .single-product-vendor-details,
+  .product-price,
+  .product-vat-details {
+    padding-left: 20px !important;
+  }
+  .woocommerce div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+    right: 38px !important;
+    height: 40px !important;
+    width: 40px !important;
+  }
+  .woocommerce div.product div.images {
+    width: 80% !important;
+    margin-top: 60px !important;
+    margin-left: 0px !important;
+  }
+  .woocommerce div.product .woocommerce-tabs {
+    padding-left: 30px !important;
+  }
+  .owp-floating-bar {
+    display: none !important;
+  }
+  .product-breadcrumb-header {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    display: block !important;
+  }
+  .header-nreadcrumbs {
+    padding-bottom: 20px;
+  }
+  .woocommerce ul.products {
+    margin: 0px !important;
+    padding-left: 0px !important;
+  }
+  /*  olivenole page */
+
+  /* searchbar input page  */
+  .search-bar-product {
+    display: block;
+  }
+  .search-bar-heding {
+    width: 100%;
+  }
+  .search-bar-input {
+    width: 100%;
+  }
+  .search-bar-heding-title {
+    text-align: start;
+    padding-left: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media only screen and (min-device-width: 600px) and (max-device-width: 1024px) {
+
+  body .oceanwp-row .span_1_of_3 {
+    width: 50% !important;
+  }
+  .card-pagination .card,
+  .offer-slider .card,
+  .card {
+    width: 100% !important;
+    margin: 55px 0px 27px 0px !important;
+    height: 400px !important;
+  }
+
+  .card-pagination .card-body,
+  .card-pagination .card-body,
+  .card-body {
+    padding: 20px !important;
+  }
+  .woocommerce ul.products {
+    margin: 0px 10px !important;
+}
+}
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  body .oceanwp-row .span_1_of_3 {
+    width: 50% !important;
+  }
+  .elementor-widget-container {
+    padding: 0px !important;
+  }
+  .offer-slider .card {
+    margin: 50px 10px 0px 10px !important;
+    height: 100% !important;
+  }
+  .card-pagination .card {
+    width: 322px !important;
+    margin: 55px 10px 27px 10px !important;
+  }
+  .card-pagination .card-body {
+    display: flex;
+    padding: 20px;
+    text-align: start;
+  }
+  .card-body {
+    padding: 20px !important;
+  }
+  #footer-widgets::before {
+    height: 600px;
+  }
+  .product-breadcrumb-header {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+}
+
+
+@media only screen and (min-device-width: 992px) and (max-device-width: 1365px) {
+  .product-cart {
+    padding: 13px 20px 13px 20px;
+  }
+  .card-pagination .card {
+    width: 440px !important;
+    margin: 55px 0px 0px 0px !important;
+  }
+  .offer-slider .card {
+    margin: 50px 27px 0px 27px !important;
+    height: 100% !important;
+  }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) {
+  .card-pagination .card {
+    width: 322px;
+    margin: 55px 27px 27px 27px !important;
+    position: relative;
+  }
+}
